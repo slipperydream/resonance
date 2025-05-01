@@ -29,7 +29,7 @@ flowchart TD
    ART --> MM(["Marksmanship"])
 
    AH["Animal Handling"] --> RDG(["Riding"])
-   AH --> WS(["Wilderness Survival")]
+   AH --> WS(["Wilderness Survival"])
    WS --> DV(["Divination"])
    RDG --> DR(["Dragonology"])
    EM --> DR
@@ -42,7 +42,7 @@ flowchart TD
    DMN --> NCR
    NCR --> DMN
 
-   ALC["Alchemy"] --> PHM(["Pharmacology")]
+   ALC["Alchemy"] --> PHM(["Pharmacology"])
    ALC --> EXP(["Explosives"])
    BL --> EXP
 
